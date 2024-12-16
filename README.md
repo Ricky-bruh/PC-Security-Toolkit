@@ -148,7 +148,7 @@ See [DISCLAIMER.md](./DISCLAIMER.md) for important information about using this 
 
 ## 🌟 Credits
 
-Created by !(Ricky)[github.com/Ricky-bruh]
+Created by ![Ricky](github.com/Ricky-bruh)
 Contributors: [List to be updated]
 
 ## 📊 Project Status
