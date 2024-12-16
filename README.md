@@ -40,10 +40,11 @@ PC-Security-Toolkit/
 - Read ![CONTRIBUTING.md](https://github.com/Ricky-bruh/PC-Security-Toolkit/blob/main/CONTRIBUTING.md) for guidelines
 
 ## 📝 License
-This project is licensed under the MIT License - see LICENSE file for details.
+This project is licensed under the MIT License - see !(LICENSE)[https://github.com/Ricky-bruh/PC-Security-Toolkit/blob/main/LICENSE] file for details.
 
 ## ⚠️ Disclaimer
 For educational purposes only. Always verify security measures independently.
+See full disclaimer !(here)[https://github.com/Ricky-bruh/PC-Security-Toolkit/blob/main/DISCLAIMER.md].
 
 ## 🔗 Credits
 Created by ![Ricky]([https://cplusplus.com/](https://github.com/Ricky-bruh))
