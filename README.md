@@ -157,7 +157,7 @@ Contributors: [List to be updated]
 - [x] System hardening guides
 - [x] Emergency response procedures
 - [x] Malware removal guides
-- [ ] Advanced network protection
+- [x] Advanced network protection
 - [ ] Automated response system
 - [ ] Mobile device protection
 - [ ] Cloud security integration
