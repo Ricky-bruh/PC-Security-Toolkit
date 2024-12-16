@@ -3,9 +3,9 @@
 An open-source security toolkit focused on helping users protect their systems through comprehensive guides, scripts, and best practices.
 
 ## 🚀 Quick Start
-1. Check your system using scripts in `/scripts`
-2. Follow security guides in `/guides`
-3. Install recommended tools from `/tools`
+1. Check your system using scripts in ![/scripts](https://github.com/Ricky-bruh/PC-Security-Toolkit/tree/main/scripts)
+2. Follow security guides in ![/guides](https://github.com/Ricky-bruh/PC-Security-Toolkit/tree/main/guides)
+3. Install recommended tools from ![/tools](https://github.com/Ricky-bruh/PC-Security-Toolkit/tree/main/tools)
 
 ## 📁 Repository Structure
 ```
@@ -37,7 +37,7 @@ PC-Security-Toolkit/
 - Fork the repository
 - Create your feature branch
 - Submit a pull request
-- Read CONTRIBUTING.md for guidelines
+- Read ![CONTRIBUTING.md](https://github.com/Ricky-bruh/PC-Security-Toolkit/blob/main/CONTRIBUTING.md) for guidelines
 
 ## 📝 License
 This project is licensed under the MIT License - see LICENSE file for details.
@@ -46,5 +46,7 @@ This project is licensed under the MIT License - see LICENSE file for details.
 For educational purposes only. Always verify security measures independently.
 
 ## 🔗 Credits
-Created by [Your Name]
-Contributors: [List to be updated]
+Created by ![Ricky]([https://cplusplus.com/](https://github.com/Ricky-bruh))
+
+Contributors: [Weekly updated]
+<At the time of writing none>
