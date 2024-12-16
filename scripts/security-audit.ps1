@@ -1,5 +1,3 @@
-# Security Audit PowerShell Script
-```powershell
 # Security Audit Script
 # Version: 2.0
 # Author: ![Ricky](https://github.com/Ricky-bruh/)
@@ -62,4 +60,3 @@ Check-DiskSpace
 Write-Host "`n============================================"
 Write-Host "Security Audit Complete!" -ForegroundColor Green
 Write-Host "============================================"
-```
