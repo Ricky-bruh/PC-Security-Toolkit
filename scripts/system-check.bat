@@ -1,8 +1,7 @@
-batch
 @echo off
 :: System Security Check Script
 :: Version: 2.0
-:: Author: Your Name
+:: Author: ![Ricky](https://github.com/Ricky-bruh/)
 
 echo ============================================
 echo PC Security Quick Check
